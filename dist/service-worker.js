@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/dona-lola-chef/dist/precache-manifest.62df4199512cf457cf1915f713f6be39.js"
+  "/dona-lola-chef/dist/precache-manifest.5a18ae88cd2227c93c9cf44a09f502b5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dona-lola"});
