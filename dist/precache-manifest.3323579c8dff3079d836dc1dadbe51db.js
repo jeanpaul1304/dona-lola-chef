@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/dona-lola-chef/dist/img/menu.8e35506a.png"
   },
   {
-    "revision": "a279b55dd45f62a7d657",
-    "url": "/dona-lola-chef/dist/js/app.91d5a7d3.js"
+    "revision": "adf9f53eafc98542f7f6",
+    "url": "/dona-lola-chef/dist/js/app.d11f6357.js"
   },
   {
     "revision": "42cf8e136406fde9f116",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/dona-lola-chef/dist/img/curso.1644f3c2.png"
   },
   {
-    "revision": "9f98f67e772203444f7c2b43aa388973",
+    "revision": "72fd0bdfcfb691585a258a5029fd3fa0",
     "url": "/dona-lola-chef/dist/index.html"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/dona-lola-chef/dist/img/order-status.png"
   },
   {
-    "revision": "a279b55dd45f62a7d657",
-    "url": "/dona-lola-chef/dist/css/app.af0ba6e8.css"
+    "revision": "adf9f53eafc98542f7f6",
+    "url": "/dona-lola-chef/dist/css/app.9fb828bb.css"
   }
 ];
